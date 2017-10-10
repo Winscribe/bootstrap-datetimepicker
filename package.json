@@ -3,7 +3,7 @@
     "name": "Jonathan Peterson"
   },
   "bugs": {
-    "url": "https://github.com/eonasdan/bootstrap-datetimepicker/issues"
+    "url": "https://winscribe.visualstudio.com/DefaultCollection/Text/"
   },
   "peerDependencies": {
     "bootstrap": "^3.3",
@@ -42,10 +42,10 @@
   ],
   "license": "MIT",
   "main": "src/js/bootstrap-datetimepicker.js",
-  "name": "eonasdan-bootstrap-datetimepicker",
+  "name": "winscribe-bootstrap-datetimepicker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
+    "url": "https://winscribe.visualstudio.com/DefaultCollection/Text/_git/bootstrap-datetimepicker"
   },
   "version": "4.17.47"
 }
