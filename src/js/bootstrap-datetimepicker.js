@@ -912,9 +912,7 @@
              * Hides the widget. Possibly will emit dp.hide
              */
             hide = function () {
-
                 keyState = {};
-
                 var transitioning = false;
                 if (!widget) {
                     return picker;
